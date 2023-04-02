@@ -1,4 +1,5 @@
 # RIN Anime DB - Crunchyroll Synchro Übersicht - Titel Liste
 ...
 ## Links:
-> Web: https://anime.or.at/crsynchro-uebersicht/
+> Webseite: https://www.rinanime.de/crsynchro/
+> Short-Link: https://crsynchro.de/
